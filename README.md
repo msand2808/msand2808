@@ -1,4 +1,4 @@
-## Actualmente aprendiendo Desarrollo web con Java
+## Actualmente aprendiendo Frontend con React
 
 <!--
 **msand2808/msand2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
